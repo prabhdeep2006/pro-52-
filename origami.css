@@ -1,0 +1,20 @@
+*{
+    border:solid; 
+    border-color:darkgreen; 
+    background-color:cyan; 
+
+}
+
+.item{
+    display:flex; 
+    flex-wrap:wrap; 
+    justify-content:space-evenly; 
+    
+    
+}
+.item:hover img{
+    opacity:0.4; 
+}
+.item:hover p{
+    opacity:1; 
+}

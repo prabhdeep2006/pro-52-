@@ -1,0 +1,13 @@
+*{
+    border:solid; 
+    border-color:brown; 
+    border-radius:10; 
+}
+    
+a:link{
+    color:brown; 
+    text-decoration: none;
+}
+a:visited{
+    color:darkblue
+}
